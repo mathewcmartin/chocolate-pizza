@@ -1,0 +1,71 @@
+body {
+  max-width: 80%;
+  position: relative;
+  color: #666;
+  margin: 0px 10% 0px 10%;
+
+}
+
+#header #content #footer {
+
+}
+
+}
+
+#delicious {
+font-family: 'Pacifico', cursive;
+float: left;
+
+}
+
+.icons {
+float: right;
+list-style-type: none;
+}
+
+#icons2 {
+float: right;
+clear: both;
+}
+
+.hr1 {
+  repeating-linear-gradient:
+  45deg,
+  transparent,
+  transparent 10px,
+  #ccc 10px,
+  #ccc 20px
+  linear-gradient:
+    to bottom,
+    #eee,
+    #999
+}
+
+#content {
+
+}
+
+.indented {
+
+}
+
+#list1 {
+
+}
+
+#list2 {
+
+
+}
+
+.list {
+  background-image: url("https://github.com/codefellows/seattle-201d20/blob/master/class-10-js_debugging-wireframe_part_2/lab/lab-assets/list-bg.png?raw=true");
+}
+
+#footer {
+
+}
+
+#legal {
+
+}
